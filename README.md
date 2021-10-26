@@ -1,5 +1,7 @@
-<h1>Atividades da disciplina de Estrutura de Dados 1 </h1>
-<h2>Universidade Católica de Pernambuco - UNICAP</h2>
+<h1 align="center">Atividades da disciplina de Estrutura de Dados - UNICAP</h1>
+
+<div>
+  <h3> Estrutura de dados 1 </h3> 
 <p>
 <h3>Assuntos abordados nesta cadeira: <br> </h3>
 • Lista Simplesmente Encadeada (LSE) <br>
@@ -10,3 +12,14 @@
 • Tipo Abstrato de Dados - FILA <br>
 • Tipo Abstrato de Dados - Árvore Binária <br>
 </p>
+
+</div>
+<div>
+  <h3> Estrutura de dados 2 </h3> 
+<p>
+<h3>Assuntos abordados nesta cadeira: <br> </h3>
+• Árvore AVL <br>
+• Árvore Rubro-negra<br>
+</p>
+
+</div>
