@@ -18,8 +18,17 @@
   <h3> Estrutura de dados 2 </h3> 
 <p>
 <h3>Assuntos abordados nesta cadeira: <br> </h3>
+  <h4>Árvores: <br> </h4>
 • Árvore AVL <br>
 • Árvore Rubro-negra<br>
+  <h4>Metodos de Ordenação: <br> </h4>
+• Insertion sort <br>
+• Selection sort <br>
+• Bubble sort <br>
+• Merge sort <br>
+• Shell sort <br>
+• Quick sort <br>
+• Heap sort
 </p>
 
 </div>
