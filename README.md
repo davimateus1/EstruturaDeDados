@@ -1,7 +1,8 @@
 <h1 align="center">Atividades da disciplina de Estrutura de Dados - UNICAP</h1>
 
+<br><br>
 <div>
-  <h3> Estrutura de dados 1 </h3> 
+  <h2 align="center"> Estrutura de Dados I </h2> 
 <p>
 <h3>Assuntos abordados nesta cadeira: <br> </h3>
 • Lista Simplesmente Encadeada (LSE) <br>
@@ -14,8 +15,9 @@
 </p>
 
 </div>
+<br>
 <div>
-  <h3> Estrutura de dados 2 </h3> 
+  <h2 align="center"> Estrutura de Dados II </h2> 
 <p>
 <h3>Assuntos abordados nesta cadeira: <br> </h3>
   <h4>Árvores: <br> </h4>
