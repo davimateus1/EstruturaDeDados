@@ -5,10 +5,12 @@
   <h2 align="center"> Estrutura de Dados I </h2> 
 <p>
 <h3>Assuntos abordados nesta cadeira: <br> </h3>
+  <h4>Listas: <br> </h4>
 • Lista Simplesmente Encadeada (LSE) <br>
 • Lista Duplamente Encadeada (LDE)<br>
 • Lista Simplesmente Encadeada Circular (LSEC)<br>
 • Lista Duplamente Encadeada Circular (LDEC)<br>
+  <h4>Tipos abstratos de dados: <br> </h4>
 • Tipo Abstrato de Dados - PILHA <br>
 • Tipo Abstrato de Dados - FILA <br>
 • Tipo Abstrato de Dados - Árvore Binária <br>
