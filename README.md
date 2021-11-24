@@ -31,4 +31,10 @@
 • Heap sort
 </p>
 
+  <h4>Metodos de Hashing: <br> </h4>
+• Hashing sem tratamento de colisão <br>
+• Hashing com tratamento de colisão por endereçamento aberto <br>
+• Hashing com tratamento de colisão por encadeamento (separado) <br>
+• Hashing com tratamento de colisão por encadeamento (coalesivo) com porão (porão de tamanho 10)
+</p>
 </div>
